@@ -13,7 +13,8 @@
   <img align="center" alt="Leon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Leon-c++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
  
-  <img align="right" alt="Leon-WOW" height="180" style="border-radius:50px;" src="https://instagram.fsdu8-2.fna.fbcdn.net/v/t51.2885-19/s150x150/253504384_1537829713241771_1172259351616383984_n.jpg?_nc_ht=instagram.fsdu8-2.fna.fbcdn.net&_nc_ohc=3ua32hl5LKIAX892_WB&edm=ALwy07oBAAAA&ccb=7-4&oh=2b73b9071070bc2d7c1e6893e3a43b08&oe=618A6AC4&_nc_sid=261c40"> 
+  <img align="right" alt="Leon-WOW" height="250" style="border-radius:50px;" src="https://cdn.dribbble.com/users/471183/screenshots/2818420/media/64b1cd342bfaa5ef65b450ef2fc990c9.png?compress=1&resize=800x600" alt="Gif perfil by zhaodaya
+"> 
 </div>
   
   ##
