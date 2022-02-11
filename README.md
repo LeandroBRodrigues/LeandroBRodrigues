@@ -5,8 +5,10 @@
     <img height="250em" src="https://github-readme-stats.vercel.app/api?username=LeandroBRodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
     <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroBRodrigues&theme=tokyonight">
 </div>
-    <br>
-<div style="display: inline_block">
+    </div>
+  <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeandroBRodrigues&theme=dark">
+  </div>
     <br>
     <img align="center" alt="leon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Leon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
