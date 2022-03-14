@@ -7,7 +7,7 @@
 </div>
     </div>
   <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeandroBRodrigues&theme=dark">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeandroBRodrigues&theme=tokyonight">
   </div>
     <br>
     <img align="center" alt="leon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
