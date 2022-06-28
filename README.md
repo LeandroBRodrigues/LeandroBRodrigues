@@ -17,6 +17,7 @@
     <img align="center" alt="Leon-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
     <img align="center" alt="Leon-Azure" height="30" width="40" src="https://img.icons8.com/fluency/344/azure-1.png">
     <img align="center" alt="Leon-MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=69&color=currentColor">
+    <img align="center alt="Leon-Python" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg">
 </div>
   <hr>
  <div>
